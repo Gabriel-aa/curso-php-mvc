@@ -1,0 +1,16 @@
+{
+    "name": "gabriel/mvc",
+    "authors": [
+        {
+            "name": "Gabriel Andrade",
+            "email": "gabriel-almeida-andrade@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "SON\\": "vendor/SON/"
+        }
+    }
+}
